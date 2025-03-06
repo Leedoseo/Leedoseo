@@ -26,4 +26,4 @@
 
 ### 📫 Contact Me
 - ✉️ Email: kmgwhn@gmail.com
-- 📱 [LinkedIn](https://www.linkedin.com/in/your-profile)
+
