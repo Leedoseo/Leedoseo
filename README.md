@@ -2,7 +2,7 @@
 
 - 🌱 iOS Developer
 - 🎯 Currently learning: Swift, UIKit, SwiftUI, Flutter
-- 💻 [My Blog]([https://your-blog-url.com](https://leedoseo.tistory.com/))
+- 💻 [My Blog]((https://leedoseo.tistory.com/))
 
 ---
 
