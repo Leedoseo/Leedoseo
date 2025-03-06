@@ -27,3 +27,6 @@
 ### 📫 Contact Me
 - ✉️ Email: kmgwhn@gmail.com
 
+-  <a href="https://github.com/devxb/gitanimals">
+      <img src="https://render.gitanimals.org/farms/Leedoseo" width="1000" height="300"/>
+
