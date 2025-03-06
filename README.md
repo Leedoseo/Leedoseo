@@ -25,5 +25,5 @@
 ---
 
 ### 📫 Contact Me
-- ✉️ Email: your-email@example.com
+- ✉️ Email: kmgwhn@gmail.com
 - 📱 [LinkedIn](https://www.linkedin.com/in/your-profile)
