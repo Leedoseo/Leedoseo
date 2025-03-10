@@ -7,7 +7,7 @@
 ---
 
 ### 📊 GitHub Stats
-![Leedoseo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Leedoseo&show_icons=true&theme=radical)
+[Leedoseo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Leedoseo&show_icons=true&theme=radical)
 
 ---
 
