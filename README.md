@@ -2,7 +2,7 @@
 
 안녕하세요! 김광현입니다.  
 👨🏻‍💻 꾸준히 성장하려고 노력하는 앱개발자입니다! 👨🏻‍💻  
-- 💻 [My Blog](https://leedoseo.tistory.com/)
+- 💻 [Doseo's Blog](https://leedoseo.tistory.com/)
 
 ---
 
