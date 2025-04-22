@@ -40,12 +40,6 @@
 
 ---
 
-
-### 📚 Baekjoon Stats
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=Leedoseo)](https://solved.ac/profile/okok0840)
-
----
-
 ### 📫 Contact Me
 - ✉️ Email: kmgwhn@gmail.com
 
